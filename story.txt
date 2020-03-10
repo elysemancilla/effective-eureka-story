@@ -4,7 +4,10 @@ friends and simple foes. He is at his store, stocking bananas. Amazing work, Joe
 
 Joe loves his job. His favorite part is when he gets to talk about expanding his grocery 
 store brand to another location. He already has investors lined up. 
+<<<<<<< HEAD
 
 One day, Joe's friend Charles came over for dinner. Charles had brought some wine as a gift,
 and it was incredibly not terrible. Joe and Charles decided to go into business together and
-began selling Two Buck Chuck. Man was it cheap wine.
+began selling Two Buck Chuck. Man was it cheap wine..
+=======
+>>>>>>> abd3330089ae8c6d63c410988dd34f5ee9ff909f
